@@ -1,0 +1,149 @@
+int red = 9;
+int yellow = 8;
+int green = 7;
+
+
+void setup (){
+
+
+pinMode (red, OUTPUT) ;
+pinMode (yellow, OUTPUT);
+pinMode (green, OUTPUT) ;
+
+
+void loop (){
+digital₩rite
+delay (15000);
+digital₩rite
+
+
+HIGH) ;
+
+
+LOW) ;
+
+
+digital₩rite(yellow,
+delay (1000);
+digital₩rite(yellow,
+delay(500);
+
+
+HIGH) ;
+
+
+LOW) ;
+
+
+digital₩rite (yellow,
+delay (1000)
+digital₩rite (yellow,
+delay (500);
+
+
+HIGH) ;
+
+
+LOW) ;
+
+
+digital₩rite (yellow,
+delay (1000) ;
+digitalwrite (yellow
+delay(500);
+
+
+HIGH) ;
+
+
+LOW) ;
+
+
+digital₩rite (yellow,
+delay (1000);
+digital₩rite(yellow,
+delay (500);
+
+
+HIGH) ;
+
+
+LOW)
+
+
+digital₩rite (yellow,
+
+
+HIGH) ;
+
+digital₩rite (yellow,
+delay (1000) ;
+digital₩rite (yellow,
+delay (500);
+
+
+HIGH) ;
+
+
+LOW) ;
+
+
+digital₩rite (green, HIGH) ;
+delay (20000);
+digital₩rite (green,
+LOW) ;
+digital₩rite (yellow HIGH) ;
+delay (1000);
+digital₩rite (yellow,
+LOW);
+delay(500);
+
+
+digital₩rite (yellow,
+delay (1000);
+digital₩rite(yellow,
+delay(500);
+
+
+HIGH)
+
+
+LON) ;
+
+
+digital₩rite (yellow,
+delay (1000) ;
+digitalwrite (yellow
+delay (500);
+
+
+HIGH) ;
+
+
+LOW) ;
+
+
+digital₩rite(yellow.
+delay (1000);
+digital₩rite (yellow,
+delay (500);
+
+
+HIGH)
+
+
+LOW) ;
+
+
+digital₩rite(yellow,
+delay (1000)
+digital₩rite (yellow,
+delay (500);
+
+
+HIGH) ;
+
+
+LOW) ;
+
+}
